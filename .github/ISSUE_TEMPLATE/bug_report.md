@@ -3,7 +3,7 @@ name: Bug Report
 about: Report a bug in SynDX
 title: "[BUG] "
 labels: bug
-assignees: ChatchaiTritham
+assignees: prof-chatchai
 ---
 
 ## Description

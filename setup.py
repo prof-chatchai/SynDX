@@ -27,7 +27,7 @@ setup(
  description="Explainable AI-Driven Synthetic Data Generation for Vestibular Disorders",
  long_description=long_desc,
  long_description_content_type="text/markdown",
- url="https://github.com/ChatchaiTritham/SynDX",
+ url="https://github.com/prof-chatchai/SynDX",
   package_dir={"": "src"},
   packages=find_packages(where="src"),
  classifiers=[

@@ -3,7 +3,7 @@ name: Feature Request
 about: Suggest an enhancement for SynDX
 title: "[FEATURE] "
 labels: enhancement
-assignees: ChatchaiTritham
+assignees: prof-chatchai
 ---
 
 ## Description
